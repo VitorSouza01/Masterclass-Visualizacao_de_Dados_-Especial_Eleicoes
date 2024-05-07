@@ -8,9 +8,6 @@ O código apresentando é referente ao curso "Masterclass - Visualização de Da
 
 Link do curso: https://www.udemy.com/share/107kbu/
 
-Link do curso: 
-
-
 ## 🖥️ Tecnologia Utilizada
 - Python
 
