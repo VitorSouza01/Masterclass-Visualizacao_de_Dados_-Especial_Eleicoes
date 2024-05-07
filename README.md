@@ -1,4 +1,4 @@
-# 🐍 Projeto Python 3 - Banco 🚀
+# 📊 Masterclass - Visualização de Dados | Especial Eleições 🌐
 <br>
 
 ## 📚 Descrição do Projeto
