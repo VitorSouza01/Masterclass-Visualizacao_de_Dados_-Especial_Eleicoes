@@ -9,6 +9,7 @@ O código apresentando é referente ao curso "Masterclass - Visualização de Da
 Link do curso: https://www.udemy.com/share/107kbu/
 
 ## 🖥️ Tecnologia Utilizada
+- Jupyter Notebook
 - Python
 
 ## 🖼️ Imagens
